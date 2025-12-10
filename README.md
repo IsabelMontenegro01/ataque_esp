@@ -2,13 +2,19 @@
 
 ###  Integrantes:
 
-- <a href="https://www.linkedin.com/in/christian-gandra/">Christian Gandra</a>
-- <a href="https://www.linkedin.com/in/giovanna-neves-rodrigues/">Giovanna Neves</a>
-- <a href="https://www.linkedin.com/in/isabel-montenegro01/">Isabel Montenegro</a>
-- <a href="https://www.linkedin.com/in/paulo-henrique0601/">Paulo Henrique</a>
-- <a href="https://www.linkedin.com/in/samuel-vono/">Samuel Vono</a>
-- <a href="https://www.linkedin.com/in/tobias-viana/">Tobias Viana</a>
-- <a href="https://www.linkedin.com/in/vitor-lopes-91763b34a/">Vitor Lopes</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/christian-gandra/"><img style="border-radius: 10%;" src="../assets/integrantes/chris.jpg" width="100px;" alt="Foto de Christian Gandra" /><br><sub><b>Christian Gandra</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/-neves-rodrigues/"><img style="border-radius: 10%;" src="../assets/integrantes/giovanna.jpg" width="100px;" alt="Foto de Giovanna Neves"/><br><sub><b>Giovanna Neves</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/isabel-montenegro01/"><img style="border-radius: 10%;" src="../assets/integrantes/isabel.jpg" width="100px;" alt="Foto de Isabel Montenegro"/><br><sub><b>Isabel Montenegro</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/paulo-henrique0601/"><img style="border-radius: 10%;" src="../assets/integrantes/paulo.jpg" width="100px;" alt="Foto de Paulo Henrique"/><br><sub><b>Paulo Henrique</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/samuel-vono/"><img style="border-radius: 10%;" src="../assets/integrantes/samuel.jpg" width="100px;" alt="Foto de Samuel Vono"/><br><sub><b>Samuel Vono</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/tobias-viana/"><img style="border-radius: 10%;" src="../assets/integrantes/tobias.jpg" width="100px;" alt="Foto de Tobias Viana"/><br><sub><b>Tobias Viana</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/vitor-lopes-91763b34a/"><img style="border-radius: 10%;" src="../assets/integrantes/vitor.jpg" width="100px;" alt="Foto de Vitor Lopes"/><br><sub><b>Vitor Lopes</b></sub></a></td>
+    </tr>
+  </table>
+</div>
 
 ### Professora:
 - <a href="https://www.linkedin.com/in/crishna-irion-7b5aa311/">Crishna Irion</a>
