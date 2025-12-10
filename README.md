@@ -67,4 +67,4 @@ Abra qualquer navegador e acesse o endereço IP obtido no Monitor Serial (ex: `h
 
 ### Resultados dos testes
 
-&emsp; Com o projeto em funcionamento, foram realizados testes de segurança para a análise de vulnerabilidades e riscos. Os resultados detalhados desses testes, incluindo as evidências dos ataques e a avaliação de risco, podem ser acessados no arquivo [Nome do Arquivo/Link].
+&emsp; Com o projeto em funcionamento, foram realizados testes de segurança para a análise de vulnerabilidades e riscos. Os resultados detalhados desses testes, incluindo as evidências dos ataques e a avaliação de risco, podem ser acessados no **[Relatório Técnico Completo](documents/document.md)**.
