@@ -14,10 +14,15 @@
 - <a href="https://www.linkedin.com/in/crishna-irion-7b5aa311/">Crishna Irion</a>
 
 
-### Ponderada em sala 
-&emsp; Este projeto implementa um servidor web básico utilizando o microcontrolador **ESP32** programado com a **Arduino IDE**. O código-fonte é uma base funcional que permite o controle de duas saídas digitais (LEDs) através de um navegador na rede local.
+### Objetivo da ponderada em sala 
 
-**ATENÇÃO:** O principal objetivo deste repositório é servir como **alvo** para uma atividade prática de **Pentest (Teste de Penetração)** em segurança de dispositivos IoT, focando na identificação e exploração de vulnerabilidades.
+&emsp; No cenário atual de rápida expansão da Internet das Coisas (IoT), a segurança cibernética de dispositivos embarcados ( edge devices) tornou-se uma preocupação crítica. Muitos projetos de IoT, desenvolvidos com foco primário em funcionalidade e rapidez de implementação, negligenciam as melhores práticas de segurança, resultando em vulnerabilidades que podem ser exploradas com facilidade.
+
+&emsp; Este projeto visa abordar essa lacuna por meio de uma atividade de Teste de Penetração (Pentest) prático e controlado. Implementamos um Servidor Web Básico utilizando o microcontrolador ESP32 e o ambiente de desenvolvimento Arduino IDE. A aplicação serve para controlar duas saídas digitais (LEDs) acessíveis via rede local.
+
+&emsp; O objetivo fundamental deste repositório não é a funcionalidade, mas sim servir como um alvo realista e vulnerável. O código-fonte foi intencionalmente configurado com fraquezas comuns para permitir a identificação, exploração e documentação de riscos de segurança em dispositivos IoT, como a falta de autenticação e a comunicação não criptografada.
+
+&emsp; Este exercício prático simula cenários de ataque reais, proporcionando insights valiosos sobre a importância da análise estática, da avaliação de risco e da implementação de contramedidas robustas em soluções de IoT.
 
 ---
 ##  Visão Geral
@@ -62,4 +67,4 @@ Abra qualquer navegador e acesse o endereço IP obtido no Monitor Serial (ex: `h
 
 ### Resultados dos testes
 
-&emsp; Com o projeto em funcionamento, foram realizados testes de segurança para a análise de vulnerabilidades e riscos. Os resultados detalhados desses testes, incluindo as evidências dos ataques e a avaliação de risco, podem ser acessados no arquivo [Nome do Arquivo/Link].
+&emsp; Com o projeto em funcionamento, foram realizados testes de segurança para a análise de vulnerabilidades e riscos. Os resultados detalhados desses testes, incluindo as evidências dos ataques e a avaliação de risco, podem ser acessados no **[Relatório Técnico Completo](documents/document.md)**.
